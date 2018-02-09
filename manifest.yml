@@ -1,0 +1,7 @@
+---
+applications:
+- name: SampleLoginTest1
+  memory: 512M
+  host: SampleLoginTest1
+  domain: apps.eu01.cf.canopy-cloud.com
+
